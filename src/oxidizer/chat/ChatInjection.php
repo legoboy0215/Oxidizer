@@ -14,7 +14,7 @@
  * (at your option) any later version.
  *
  * @author LegendsOfMCPE Team
- * @link http://legendofmcpe.github.io/oxidizer/
+ * @link http://legendofmcpe.github.io/Oxidizer/
  *
  */
 
