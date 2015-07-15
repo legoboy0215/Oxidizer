@@ -22,7 +22,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_chat_api_8php.html"
+"_action_api_8php.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
