@@ -1,8 +1,11 @@
 var NAVTREEINDEX0 =
 {
 "_chat_api_8php.html":[2,0,0,0,0,0,0],
+"_chat_api_8php_source.html":[2,0,0,0,0,0,0],
 "_chat_injection_8php.html":[2,0,0,0,0,0,1],
+"_chat_injection_8php_source.html":[2,0,0,0,0,0,1],
 "_oxidizer_8php.html":[2,0,0,0,0,1],
+"_oxidizer_8php_source.html":[2,0,0,0,0,1],
 "annotated.html":[1,0],
 "classes.html":[1,1],
 "classoxidizer_1_1_oxidizer.html":[1,0,0,1],
@@ -41,10 +44,10 @@ var NAVTREEINDEX0 =
 "interfaceoxidizer_1_1chat_1_1_chat_injection.html#ab8903ef964feec93977e0b29ff6ae538":[1,0,0,0,1,4],
 "interfaceoxidizer_1_1chat_1_1_chat_injection.html#ac147b8d466e4dd71b76c8b27465ba55b":[1,0,0,0,1,14],
 "interfaceoxidizer_1_1chat_1_1_chat_injection.html#aca5b2a62a15509b31cd6f545a0c81b7c":[1,0,0,0,1,7],
-"namespaceoxidizer.html":[0,0,0],
 "namespaceoxidizer.html":[1,0,0],
-"namespaceoxidizer_1_1chat.html":[1,0,0,0],
+"namespaceoxidizer.html":[0,0,0],
 "namespaceoxidizer_1_1chat.html":[0,0,0,0],
+"namespaceoxidizer_1_1chat.html":[1,0,0,0],
 "namespaces.html":[0,0],
 "pages.html":[]
 };
