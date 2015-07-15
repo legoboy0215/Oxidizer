@@ -47,3 +47,6 @@ crashlytics.properties
 crashlytics-build.properties
 
 
+### PEMapModder's private stuff
+*.lnk
+*.tmp
